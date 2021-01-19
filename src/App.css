@@ -1,5 +1,14 @@
 .App {
   text-align: center;
-  background-color: blue
+  background-color: blue;
+  border-style: groove;
+  border-width: 50px;
+  border-color: darkgrey;
+  padding: 30px;
   
+
+}
+
+h1.title{
+ text-align:left;   
 }
